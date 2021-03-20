@@ -13,4 +13,11 @@ FF14セイブザクイーンの女王の大勅令の練習用のアプリ
 - 敵の数値ペアで(1,1),(3,3)は無い。(There are no number of pairs on the chess pieces, [1,1] and [3,3].)
 
 ## 使い方(How to use.)
-daityokurei.exeをダウンロードするだけだと思います.
+
+1.Download
+直リンク
+https://github.com/mrok273/dai_tyokurei/raw/master/daityokurei.exe
+
+2.「WindowsによってPCが保護されました」が現れた場合
+If warning message appear, then click "More Info"-> "Run anyway".
+https://i.imgur.com/XfJiwim.png
